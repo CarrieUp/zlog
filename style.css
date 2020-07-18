@@ -1,0 +1,84 @@
+a{
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+.logo{
+    background-color: rgb(243, 187, 219);
+    font-family: arial;
+    font-size: 69px;
+    font-weight: bold;
+    text-align: center;
+}
+.logo:hover{
+}
+.topbar{
+    margin-top: 16px;
+    width:100%;
+    text-align:center;
+    table-layout: fixed;
+    font-family:arial;
+    font-size:17px;
+}
+.leftbar{
+    float: left;
+    width: 13%;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.leftbar table{
+    font-family:arial;
+    font-size:28px;
+    text-align:right;
+}
+.leftbar td{
+    white-space: nowrap;
+}
+.frame{
+    width:70%;
+    height:600px;
+    margin-top: 50px;
+    border: 0px;
+}
+.leftbar a:hover{
+    color: rgb(243, 187, 219);
+}
+.myblog{
+    border-collapse:collapse;
+    margin-top: 44px;
+    width: 60%;
+    border-color: rgb(243, 187, 219);
+    font-family:arial;
+}
+.login{
+    font-size:18px;
+    font-family: arial;
+}
+.post{
+    font-size:17px;
+    font-family: arial;
+    margin-top: 18px;
+}
+.showblog{
+    border-collapse:collapse;
+    width: 95%;
+    border-color: rgb(243, 187, 219);
+    font-family:arial;
+}
+.fline{
+    background-color: rgb(243, 187, 219);
+    font-size: 17px;
+}
+.bar{
+    color: rgb(243, 203, 226);
+    background-color: rgb(44, 44, 44);
+    border-radius:8px;
+    padding-top: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 3px;
+    font-weight: bold;
+}
+.bar:hover{
+    color: rgb(31, 31, 31);
+    background-color: rgb(243, 187, 219);
+}
